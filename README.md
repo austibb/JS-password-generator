@@ -6,4 +6,6 @@ The goal of this assignment was to create a random password generator. Given an 
 ![Sample screenshot of the expected output](./Assets/readme-screenshot.png)
 
 https://austibb.github.io/JS-password-generator/
+
+
 https://github.com/austibb/JS-password-generator
